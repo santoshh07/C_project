@@ -1,5 +1,5 @@
 #include <stdio.h>
-biggest(void)
+void biggest()
 {
      int num1, num2;
      printf("Please enter two different values \n");
